@@ -1,0 +1,7 @@
+%%writefile requirements.txt
+tensorflow
+streamlit
+pillow
+numpy
+pandas
+gdown
