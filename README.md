@@ -120,6 +120,7 @@ Deployment using Streamlit or Flask for real-time inference
 
 ## 👤 Author
 
-Tee Wanjiru
+Tess Kamau
 Economics & Finance | Data Science | Machine Learning
+
 📍 Kenya
